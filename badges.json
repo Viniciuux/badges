@@ -655,6 +655,19 @@
       "tagStyle": "filled"
     },
     {
+      "id": "s-mubi",
+      "groupId": "gs",
+      "name": "MUBI",
+      "pattern": "(?i)(?<![a-z0-9])(?:mubi)(?![a-z0-9])",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/MUBI_Logo_Standard_Black.png/1280px-MUBI_Logo_Standard_Black.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "type": "filter",
+      "isEnabled": true,
+      "tagColor": "#FFF2F2F2",
+      "borderColor": "#FFF2F2F2",
+      "textColor": "#FF000000",
+      "tagStyle": "filled"
+    },
+    {
       "id": "lang_english",
       "groupId": "glang",
       "name": "English",
