@@ -65,7 +65,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
@@ -78,7 +78,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
@@ -91,7 +91,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
@@ -104,7 +104,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
@@ -117,7 +117,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
@@ -130,7 +130,7 @@
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
-      "borderColor": "#FF00FF37",
+      "borderColor": "#00000000",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
     },
