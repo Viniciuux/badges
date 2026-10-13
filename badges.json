@@ -57,11 +57,11 @@
   ],
   "filters": [
     {
-      "id": "quality-remux",
+      "id": "quality-bluray",
       "groupId": "gq",
-      "name": "REMUX",
-      "pattern": "(?i)(?<![a-z0-9])(?:remux)(?![a-z0-9])",
-      "imageURL": "https://i0.wp.com/i.postimg.cc/s2N43vdH/vx-XP8a-F.png",
+      "name": "Blu-ray",
+      "pattern": "(?i)(?<![a-z0-9])(?:blu[ ._-]?ray|bd[ ._-]?rip|br[ ._-]?rip)(?![a-z0-9])",
+      "imageURL": "https://logodownload.org/wp-content/uploads/2017/04/blu-ray-logo.png",
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
@@ -70,11 +70,11 @@
       "tagStyle": "filled"
     },
     {
-      "id": "quality-bluray",
+      "id": "quality-remux",
       "groupId": "gq",
-      "name": "Blu-ray",
-      "pattern": "(?is)^(?!.*(?<![a-z0-9])remux(?![a-z0-9]))(?=.*(?<![a-z0-9])(?:blu[ ._-]?ray|bd[ ._-]?rip|br[ ._-]?rip)(?![a-z0-9]))",
-      "imageURL": "https://logodownload.org/wp-content/uploads/2017/04/blu-ray-logo.png",
+      "name": "REMUX",
+      "pattern": "(?i)(?<![a-z0-9])(?:remux)(?![a-z0-9])",
+      "imageURL": "https://i0.wp.com/i.postimg.cc/s2N43vdH/vx-XP8a-F.png",
       "type": "filter",
       "isEnabled": true,
       "tagColor": "",
