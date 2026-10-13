@@ -64,7 +64,7 @@
       "imageURL": "https://i0.wp.com/i.postimg.cc/s2N43vdH/vx-XP8a-F.png",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
@@ -77,7 +77,7 @@
       "imageURL": "https://logodownload.org/wp-content/uploads/2017/04/blu-ray-logo.png",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
@@ -90,7 +90,7 @@
       "imageURL": "https://9mousaa.github.io/BetterFormatter/assets/badges/modern/quality/mono/web-dl.png",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
@@ -103,7 +103,7 @@
       "imageURL": "https://img.shields.io/badge/WEBRip-2A2A2A.png?style=flat&scale=3",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
@@ -116,7 +116,7 @@
       "imageURL": "https://img.shields.io/badge/HDTV-2A2A2A.png?style=flat&scale=3",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
@@ -129,7 +129,7 @@
       "imageURL": "https://img.shields.io/badge/DVD-2A2A2A.png?style=flat&scale=3",
       "type": "filter",
       "isEnabled": true,
-      "tagColor": "#3300FF37",
+      "tagColor": "",
       "borderColor": "#FF00FF37",
       "textColor": "#FF27C04F",
       "tagStyle": "filled"
