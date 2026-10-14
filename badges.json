@@ -70,6 +70,19 @@
       "tagStyle": "filled"
     },
     {
+      "id": "quality-DDLBase",
+      "groupId": "gq",
+      "name": "DDLBase",
+      "pattern": "(?i)(?<![a-z0-9])(?:DDLBase)(?![a-z0-9])",
+      "imageURL": "https://i0.wp.com/i.postimg.cc/SQH79wgy/668271557-yyskgnc.png",
+      "type": "filter",
+      "isEnabled": true,
+      "tagColor": "",
+      "borderColor": "#00000000",
+      "textColor": "#FF27C04F",
+      "tagStyle": "filled"
+    },
+    {
       "id": "quality-remux",
       "groupId": "gq",
       "name": "REMUX",
